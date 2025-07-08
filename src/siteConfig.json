@@ -1,0 +1,25 @@
+{
+  "name": "Yendo al ritmo",
+  "bio": "del Curso de Nivelación de FAMAF",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://ingreso.goalritmo.com",
+  "blog": true,
+  "iconLinks": [],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "📚 Libro del Ingreso + Anexos + Ejercicios",
+      "url": "https://drive.google.com/drive/folders/1ceHA1-jRO3Dk-CnvWX9GzCdhEnzs01BK?usp=sharing"
+    },
+    {
+      "id": "1728534585739",
+      "title": "📜 Regularidad y Promoción",
+      "url": "https://drive.google.com/drive/folders/1bVNoBuzRd-s_PV6oULXuSfEa5o5fp6hv?usp=sharing"
+    },
+    {
+      "id": "1728534585740",
+      "title": "🗓 Cronograma (1er Cuatri 2025)",
+      "url": "https://drive.google.com/drive/folders/1bVNoBuzRd-s_PV6oULXuSfEa5o5fp6hv?usp=sharing"
+    }
+  ]
+}
